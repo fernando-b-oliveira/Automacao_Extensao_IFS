@@ -7,6 +7,13 @@
 
 ---
 
+### ⏱️ Impacto de Negócio & Horas Economizadas (Pé no chão)
+- **Navegação em Sistemas Legados:** Redução de **~40 a 50 segundos** por consulta manual de Ordem de Serviço em telas pesadas de ERP.
+- **Economia Operacional Real:** Em operações com volume de 40 a 60 ordens diárias, poupa cerca de **1 a 1,5 hora por dia** de cada operador na rotina de triagem e baixa.
+- **Consolidação em Lote:** Elimina a necessidade de abrir múltiplos chamados individualmente para extrair status.
+
+---
+
 ## 📌 Visão Geral
 Conjunto de rotinas e extensões desenvolvidas para eliminar gargalos de lentidão e trabalho repetitivo na consulta e baixa de Ordens de Serviço operacionais em sistemas ERP baseados em navegador.
 
